@@ -9,11 +9,22 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm a Student from University of the Assumption</p>
-        <p>I’m Rowie Nabong. I'm 20 years Old from Apalit Pampanga. My hobbies are playing video games and basketball. My favorite music is God's Plan by drake. My favorite food is adobo. And other things about me is that I'm a shy type of person.
-</p>
-<p>I choose to study information technology to gain a solid understanding of the rapidly evolving field of technology, develop skills in areas like programming, networking, and cybersecurity, and pursue careers in IT management, software development, data analysis, and more.
-</p>
+    <p>
+    10 Things That Require Zero Talent</p>
+    <ol>
+    
+    <li>1. Being On Time</li>
+    <li>2. Making An Effort</li>
+    <li>3. Being High Energy</li>
+    <li>4. Having A Positive Attitude</li>
+    <li>5. Being Passionate</li>
+    <li>6. Using Good Body Language</li>
+    <li>7. Being Coachable</li>
+    <li>8. Doing A Little Extra</li>
+    <li>9. Being Prepared</li>
+    <li>10. Having A Strong Work Ethic</li>
+    
+    </ol>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
