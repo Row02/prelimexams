@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
     <p>
     10 Things That Require Zero Talent</p>
-    <ol>
+    <ul>
     
     <li>Being On Time</li>
     <li> Making An Effort</li>
@@ -24,7 +24,7 @@ export default function Home() {
     <li>Being Prepared</li>
     <li>Having A Strong Work Ethic</li>
     
-    </ol>
+    </ul>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
