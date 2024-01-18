@@ -9,6 +9,14 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
+
+<p><b>Hello! I am Rowie Nabong an IT student at the University of the Assumption, passionately navigating the dynamic world of technology.</b></p>
+ <p><b>3 Things to expect to this subject</b></p>
+        <li>1. Hard</li>
+        <li>2. Enjoyable</li>
+        <li>3. Tired </li>
+        <p>
+
     <p>
     10 Things That Require Zero Talent</p>
     <ul>
