@@ -15,7 +15,6 @@ export default function Home() {
         <li>1. Hard</li>
         <li>2. Enjoyable</li>
         <li>3. Tired </li>
-        <p>
 
     <p>
     10 Things That Require Zero Talent</p>
